@@ -1,2 +1,2 @@
-# telegram message robot
+# python
 some scripts by python
