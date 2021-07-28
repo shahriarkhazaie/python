@@ -1,2 +1,2 @@
 # python
-somscripts by python
+some scripts by python
